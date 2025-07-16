@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @pr0g4ng3l!
-- 🧑‍💻 21 years old.
+- 🧑‍💻 22 years old.
 - 🏖️ Dominican.
-- 👀 Interested in Web development and AI.
+- 👀 Interested in Web development.
 - 📓 Studying systems engineering in Universidad Dominicana O&M.
-- 🌱 Currently learning JQuery and React.
+- 🌱 Currently learning Next.js.
 - 💞️ Looking to collaborate on Web projects.
 - 📫 How to reach me: angelhm20@hotmail.com / (Whatsapp or Telegram: +1 829-397-0947)
 
