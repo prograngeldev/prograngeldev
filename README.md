@@ -1,9 +1,7 @@
 <h1>👋 Hi! I'm @prograngeldev.</h1>
+<h2>About me</h2>
+<p>I'm a 22 years old software developer living in the Dominican Republic, I'm studing system engineering in Dominican University O&M.</p>
 <ul>
-  <li>🧑‍💻 22 years old</li>
-  <li>🏖️ Dominican</li>
-  <li>👀 Interested in Web development</li>
-  <li>📓 Studying systems engineering in Universidad Dominicana O&M</li>
   <li>🌱 Currently learning MongoDB</li>
   <li>💞️ Looking to collaborate on Web projects</li>
   <li>📫 <b>How to reach me:</b> angelhm20@hotmail.com / (Whatsapp or Telegram: +1 829-397-0947)</li>
