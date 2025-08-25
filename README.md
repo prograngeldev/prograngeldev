@@ -1,6 +1,6 @@
 <h1>👋 Hi! I'm @prograngeldev.</h1>
 <ul>
-  <li style="color: red">🧑‍💻 22 years old</li>
+  <li style="color:red">🧑‍💻 22 years old</li>
   <li>🏖️ Dominican</li>
   <li>👀 Interested in Web development</li>
   <li>📓 Studying systems engineering in Universidad Dominicana O&M</li>
