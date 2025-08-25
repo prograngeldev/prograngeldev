@@ -1,6 +1,6 @@
 <h1>👋 Hi! I'm @prograngeldev.</h1>
 <h2>🌟 About me</h2>
-<p>I'm a 22 years old <b>software developer</b> living in the Dominican Republic, I'm studing <b>system engineering</b> in Dominican University O&M.</p>
+<p>My name is Angel Ivan Henriquez Martinez. I'm a 22 years old <b>software developer</b> living in the Dominican Republic, I'm studing <b>system engineering</b> in Dominican University O&M.</p>
 
 <h2>🌱 Currently learning</h2>
 <ul>
