@@ -4,6 +4,7 @@
 
 <h2>🌱 Currently learning</h2>
 <ul>
+  <li><b>OCI AI Foundations:</b> To integrate AI into web apps.</li>
   <li><b>MongoDB:</b> For NoSQL databases.</li>
   <li><b>Redux:</b> For global state managment.</li>
 </ul>
