@@ -1,4 +1,4 @@
-<h1>👋 Hi! I'm @prograngeldev.</h1>
+<h1 align="center">👋 Hi! I'm @prograngeldev.</h1>
 <h2>🌟 About me</h2>
 <p>My name is Angel Ivan Henriquez Martinez. I'm a 22 years old <b>software developer</b> living in the Dominican Republic, I'm studing <b>system engineering</b> in Dominican University O&M.</p>
 
@@ -75,20 +75,24 @@
   <li><b>Next.js:</b> For SSR applications.</li>
 </ul>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=prograngeldev&theme=whatsapp-dark2&card_width=830)](https://git.io/streak-stats)
+<div align="center">
+  
+  [![GitHub Streak](https://streak-stats.demolab.com?user=prograngeldev&theme=whatsapp-dark2&card_width=830)](https://git.io/streak-stats)
 
-<a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
-  <img height=200 src="https://github-readme-stats.vercel.app/api?username=prograngeldev&show_icons=true&theme=gotham#gh-dark-mode-only" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
-  <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=prograngeldev&layout=compact&langs_count=8&hide=jupyter%20notebook&card_width=330&theme=gotham#gh-dark-mode-only" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
-  <img height=200 src="https://github-readme-stats.vercel.app/api?username=prograngeldev&show_icons=true&theme=catppuccin_latte#gh-light-mode-only" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
-  <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=prograngeldev&layout=compact&langs_count=8&hide=jupyter%20notebook&card_width=330&theme=catppuccin_latte#gh-light-mode-only" />
-</a>
+  <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
+    <img height=200 src="https://github-readme-stats.vercel.app/api?username=prograngeldev&show_icons=true&theme=gotham#gh-dark-mode-only" />
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
+    <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=prograngeldev&layout=compact&langs_count=8&hide=jupyter%20notebook&card_width=330&theme=gotham#gh-dark-mode-only" />
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
+    <img height=200 src="https://github-readme-stats.vercel.app/api?username=prograngeldev&show_icons=true&theme=catppuccin_latte#gh-light-mode-only" />
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
+    <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=prograngeldev&layout=compact&langs_count=8&hide=jupyter%20notebook&card_width=330&theme=catppuccin_latte#gh-light-mode-only" />
+  </a>
+  
+</div>
 
 <!---
 pr0g4ng3l/pr0g4ng3l is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
