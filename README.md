@@ -1,4 +1,5 @@
 <h1 align="center">👋 Hi! I'm @prograngeldev.</h1>
+<img align="center" src="./Angel Linkedin banner.png" />
 <h2>🌟 About me</h2>
 <p>I'm a 22-year-old Full Stack developer, passionate about coding and problem-solving. I have strong analytical skills and solid programming logic.
 
