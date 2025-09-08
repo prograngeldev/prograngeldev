@@ -1,6 +1,10 @@
 <h1 align="center">👋 Hi! I'm @prograngeldev.</h1>
 <h2>🌟 About me</h2>
-<p>My name is Angel Ivan Henriquez Martinez. I'm a 22 years old <b>software developer</b> living in the Dominican Republic, I'm studing <b>system engineering</b> in Dominican University O&M.</p>
+<p>I'm a 22-year-old Full Stack developer, passionate about coding and problem-solving. I have strong analytical skills and solid programming logic.
+
+I chose to become a web developer because I love building things that help people. Planning ideas and working on them until they grow and become reality brings me immense joy.
+
+My greatest satisfaction comes from turning ideas into reality and developing visions until it comes true.</p>
 
 <h2>🔥 Skills</h2>
 <h3>⚡ Languages</h3>
