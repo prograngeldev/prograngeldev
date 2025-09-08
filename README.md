@@ -113,7 +113,7 @@ My greatest satisfaction comes from turning ideas into reality and developing vi
 
 <br />
 
-<h2>Thanks for visiting my profile. Have a nice day!☺️</h2>
+<h2 align="center">Thanks for visiting my profile. Have a nice day!☺️</h2>
 
 <!---
 pr0g4ng3l/pr0g4ng3l is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
