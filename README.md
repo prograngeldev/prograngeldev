@@ -110,11 +110,10 @@ My greatest satisfaction comes from turning ideas into reality and developing vi
 	<a href="https://www.linkedin.com/in/angel-ivan-henr%C3%ADquez-mart%C3%ADnez-16a6b6218/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" title='LinkedIn' alt="LinkedIn"/></a>
 	<a href="https://x.com/navimmii"><img src="https://img.icons8.com/bubbles/50/000000/twitter-circled.png" title='Twitter' alt="twitter"/></a>
 </p>
-<hr/>
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
-</div>
+<br />
+
+<h2>Thanks for visiting my profile. Have a nice day!☺️</h2>
 
 <!---
 pr0g4ng3l/pr0g4ng3l is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
