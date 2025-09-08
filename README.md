@@ -74,6 +74,22 @@
   <li><b>OCI AI Foundations:</b> To integrate AI into web apps.</li>
   <li><b>Next.js:</b> For SSR applications.</li>
 </ul>
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=prograngeldev&theme=whatsapp-dark2&card_width=830)](https://git.io/streak-stats)
+
+<a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
+  <img height=200 src="https://github-readme-stats.vercel.app/api?username=prograngeldev&show_icons=true&theme=gotham#gh-dark-mode-only" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
+  <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=prograngeldev&layout=compact&langs_count=8&hide=jupyter%20notebook&card_width=330&theme=gotham#gh-dark-mode-only" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
+  <img height=200 src="https://github-readme-stats.vercel.app/api?username=prograngeldev&show_icons=true&theme=catppuccin_latte#gh-light-mode-only" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
+  <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=prograngeldev&layout=compact&langs_count=8&hide=jupyter%20notebook&card_width=330&theme=catppuccin_latte#gh-light-mode-only" />
+</a>
+
 <!---
 pr0g4ng3l/pr0g4ng3l is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
