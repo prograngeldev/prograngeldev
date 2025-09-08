@@ -75,6 +75,8 @@
   <li><b>Next.js:</b> For SSR applications.</li>
 </ul>
 
+<br />
+
 <div align="center">
   
   [![GitHub Streak](https://streak-stats.demolab.com?user=prograngeldev&theme=whatsapp-dark2&card_width=830)](https://git.io/streak-stats)
@@ -92,6 +94,21 @@
     <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=prograngeldev&layout=compact&langs_count=8&hide=jupyter%20notebook&card_width=330&theme=catppuccin_latte#gh-light-mode-only" />
   </a>
   
+</div>
+
+<br />
+
+<h2>✉️ Contact me</h2>
+<p align="center">
+	<a href="mailto:angelhm20@hotmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" title='Gmail' alt="Gmail"/></a>
+	<a href="https://github.com/prograngeldev"><img src="https://img.icons8.com/bubbles/50/000000/github.png" title='GitHub' alt="GitHub"/></a>
+	<a href="https://www.linkedin.com/in/angel-ivan-henr%C3%ADquez-mart%C3%ADnez-16a6b6218/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" title='LinkedIn' alt="LinkedIn"/></a>
+	<a href="https://x.com/navimmii"><img src="https://img.icons8.com/bubbles/50/000000/twitter-circled.png" title='Twitter' alt="twitter"/></a>
+</p>
+<hr/>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
 </div>
 
 <!---
