@@ -82,27 +82,6 @@ My greatest satisfaction comes from turning ideas into reality and developing vi
 
 <br />
 
-<div align="center">
-  
-  [![GitHub Streak](https://streak-stats.demolab.com?user=prograngeldev&theme=whatsapp-dark2&card_width=830)](https://git.io/streak-stats)
-
-  <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
-    <img height=200 src="https://github-readme-stats.vercel.app/api?username=prograngeldev&show_icons=true&theme=gotham#gh-dark-mode-only" />
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
-    <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=prograngeldev&layout=compact&langs_count=8&hide=jupyter%20notebook&card_width=330&theme=gotham#gh-dark-mode-only" />
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
-    <img height=200 src="https://github-readme-stats.vercel.app/api?username=prograngeldev&show_icons=true&theme=catppuccin_latte#gh-light-mode-only" />
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
-    <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=prograngeldev&layout=compact&langs_count=8&hide=jupyter%20notebook&card_width=330&theme=catppuccin_latte#gh-light-mode-only" />
-  </a>
-  
-</div>
-
-<br />
-
 <h2>✉️ Contact me</h2>
 <p align="center">
 	<a href="mailto:angelhm20@hotmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" title='Gmail' alt="Gmail"/></a>
