@@ -31,7 +31,7 @@ I chose to become a web developer because I love building things that help peopl
 <span><img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens" /></span>
 <span><img src="https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34" /></span>
 <span><img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi" /></span>
-<span><img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" /></span>
+<span><img src="https://img.shields.io/badge/Supabase-181818?style=for-the-badge&logo=supabase&logoColor=white" /></span>
 
 <h3>💾 Database</h3>
 <span><img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" /></span>
@@ -40,7 +40,6 @@ I chose to become a web developer because I love building things that help peopl
 <span><img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white" /></span>
 
 <h3>🏠 Hosting</h3>
-<span><img src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase" /></span>
 <span><img src="https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white" /></span>
 <span><img src="https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white" /></span>
 <span><img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" /></span>
@@ -58,6 +57,8 @@ I chose to become a web developer because I love building things that help peopl
 
 <h3>🧰 Tools</h3>
 <span><img src="https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white" /></span>
+<span><img src="https://img.shields.io/badge/google%20gemini-8E75B2?style=for-the-badge&logo=google%20gemini&logoColor=white" /></span>
+<span><img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white" /></span>
 <span><img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white" /></span>
 <span><img src="https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white" /></span>
 <span><img src="https://img.shields.io/badge/pnpm-%234a4a4a.svg?style=for-the-badge&logo=pnpm&logoColor=f69220" /></span>
@@ -66,11 +67,13 @@ I chose to become a web developer because I love building things that help peopl
 <span><img src="https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white" /></span>
 <span><img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" /></span>
 <span><img src="https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white" /></span>
+<span><img src="https://img.shields.io/badge/biome-%2360A5FA.svg?style=for-the-badge&logo=biome&logoColor=white" /></span>
 <span><img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" /></span>
 <span><img src="https://img.shields.io/badge/prettier-%23F7B93E.svg?style=for-the-badge&logo=prettier&logoColor=black" /></span>
 
 <h2>🌱 Currently learning</h2>
 <span><img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" /></span>
+<p>Since I already know to work with SQL DBMS, I'm now looking forward to adquire knowledge and practice in the use of NoSQL DBMS and ORMs for cases when is better to work with those types of databases.</p>
 
 
 <br />
