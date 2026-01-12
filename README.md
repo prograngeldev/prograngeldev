@@ -32,6 +32,7 @@ I chose to become a web developer because I love building things that help peopl
 <span><img src="https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34" /></span>
 <span><img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi" /></span>
 <span><img src="https://img.shields.io/badge/Supabase-181818?style=for-the-badge&logo=supabase&logoColor=white" /></span>
+<span><img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" /></span>
 
 <h3>💾 Database</h3>
 <span><img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" /></span>
@@ -70,7 +71,6 @@ I chose to become a web developer because I love building things that help peopl
 <span><img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" /></span>
 <span><img src="https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white" /></span>
 <span><img src="https://img.shields.io/badge/biome-%2360A5FA.svg?style=for-the-badge&logo=biome&logoColor=white" /></span>
-<span><img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" /></span>
 <span><img src="https://img.shields.io/badge/prettier-%23F7B93E.svg?style=for-the-badge&logo=prettier&logoColor=black" /></span>
 
 <h2>🌱 Currently learning</h2>
