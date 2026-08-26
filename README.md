@@ -37,6 +37,7 @@ I chose to become a web developer because I love building things that help peopl
 <h3>💾 Database</h3>
 <span><img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" /></span>
 <span><img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white" /></span>
+<span><img src="https://img.shields.io/badge/Prisma-%233982CE.svg?style=for-the-badge&logo=Prisma&logoColor=white" /></span>
 
 <h3>🏠 Hosting</h3>
 <span><img src="https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white" /></span>
@@ -74,9 +75,7 @@ I chose to become a web developer because I love building things that help peopl
 <span><img src="https://img.shields.io/badge/prettier-%23F7B93E.svg?style=for-the-badge&logo=prettier&logoColor=black" /></span>
 
 <h2>🌱 Currently learning</h2>
-<span><img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" /></span>
-<p>Since I already know to work with SQL DBMS, I'm now looking forward to adquire knowledge and practice in the use of NoSQL DBMS and ORMs for cases when is better to work with those types of databases.</p>
-
+<span><img src="https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white" /></span>
 
 <br />
 
